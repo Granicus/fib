@@ -1,6 +1,6 @@
 namespace fib
 {
-  public interface IFibonnaci
+  public interface ICalculator
   {
     int Calculate(int n);
   }

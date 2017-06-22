@@ -2,7 +2,7 @@
 
 namespace fib
 {
-  public sealed class Fibonnaci : IFibonnaci
+  public sealed class Fibonacci : ICalculator
   {
     public int Calculate(int n)
     {
