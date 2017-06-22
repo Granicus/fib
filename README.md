@@ -8,8 +8,8 @@
 ### Quickstart Guide
 - Clone the repo with your preferred flavor of git
 - Navigate to the fib directory: `cd fib`
-- Restore required packages: `dotnet restore`
-- Open vscode: `vscode .`
+- Restore required packages `dotnet restore`
+- Open vscode `vscode .`
 
 ### Testing Guide
 ```
